@@ -27,6 +27,7 @@
         android:layout_alignParentBottom="true"
         android:layout_toLeftOf="@id/button_main"
         android:layout_toStartOf="@id/button_main"
-        android:hint="@string/enter"/>
+        android:hint="@string/enter"
+        android:inputType="textCapSentences"/>
 
 </RelativeLayout>
